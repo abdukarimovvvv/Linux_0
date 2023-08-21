@@ -344,3 +344,5 @@ Do you want to learn how to work in VIM?
 
 
 💡 [Tap here](https://forms.yandex.ru/u/6357f435c09c02345cf48f1a/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
+
+## FINISH Completed (300 XP, 100%) ✅
